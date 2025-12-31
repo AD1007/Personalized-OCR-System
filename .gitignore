@@ -1,0 +1,22 @@
+# --- Python & Jupyter Junk ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- VS Code Settings ---
+.vscode/
+
+# --- Large Models & Datasets ---
+*.pth
+*.pt
+*.h5
+Image/
+ocr_line_dataset/
+habit.ipynb
+Dark_Mode_Habit_Tracker.xlsx
+my_handwriting_brain.pth
+
+
+# --- Virtual Environments (if you have one) ---
+.venv/
+env/
