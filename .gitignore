@@ -11,6 +11,7 @@ __pycache__/
 *.pt
 *.h5
 Image/
+my_brain_data/
 ocr_line_dataset/
 habit.ipynb
 Dark_Mode_Habit_Tracker.xlsx
